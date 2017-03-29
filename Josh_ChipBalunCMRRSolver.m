@@ -3,7 +3,6 @@
 % CMRR Solver     %
 % 3-29-2017       %
 %%%%%%%%%%%%%%%%%%%
-
 % Instructions for use: Ensure this file is in the path you are currently
 % using. Input the correct file name in the read command for MeasuredData.
 % Example: 'JTX-2.s3p'
